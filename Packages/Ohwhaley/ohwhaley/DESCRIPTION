@@ -1,0 +1,15 @@
+Package: ohwhaley
+Title: Whale with a Message
+Version: 0.0.0.9000
+Authors@R: 
+    person("Alana", "Reid", , 
+           "alana@techcircle.com.au", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Prints a whale saying a phrase chosen by the user. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magrittr
